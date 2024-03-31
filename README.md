@@ -1,0 +1,1 @@
+"City Weather Tracker: Stay Informed with Real-Time Weather Updates. Access city-specific weather data including latitude, longitude, current temperature, minimum and maximum temperature forecasts, humidity levels, atmospheric pressure, and wind speed all in one convenient application."
